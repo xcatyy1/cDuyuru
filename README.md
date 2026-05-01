@@ -9,7 +9,7 @@
 🚪 Giriş Duyurusu: Oyuncular sunucuya ilk adım attığında onlara özel bir karşılama duyurusu gönderebilirsiniz.
 
 🎮 Gelişmiş Komut Yönetimi: Oyuncu isimlerini gizleyen otomatik tamamlama (Tab Complete) ve şık bir yardım menüsü ile kolay yönetim sağlar.
----
+<br>
 📦 Kurulum
 Masaüstündeki veya Releases kısmındaki cDuyuru-1.0.0.jar dosyasını indirin.
 
