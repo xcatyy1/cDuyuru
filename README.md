@@ -12,7 +12,9 @@
 ** **
 # 📦 Kurulum
 Desteklenen Sürümler: 1.21x
+
 Eklenti JDK 21 ve üstünde çalışmaktadır.
+
 Releases kısmındaki cDuyuru-1.0.0.jar dosyasını indirin.
 
 
