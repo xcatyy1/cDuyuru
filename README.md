@@ -1,4 +1,4 @@
-# cDuyuru
+# cDuyuru Eklenti Özellikleri
 
 🖼️ Akıllı Skin Entegrasyonu: Duyurular sohbete düştüğünde, her oyuncu kendi skin kafasını (Minotar API desteğiyle) en önde görür.
 
@@ -10,7 +10,7 @@
 
 🎮 Gelişmiş Komut Yönetimi: Oyuncu isimlerini gizleyen otomatik tamamlama (Tab Complete) ve şık bir yardım menüsü ile kolay yönetim sağlar.
 ** **
-📦 Kurulum
+# 📦 Kurulum
 Masaüstündeki veya Releases kısmındaki cDuyuru-1.0.0.jar dosyasını indirin.
 
 Sunucunuzun /plugins klasörüne atın.
