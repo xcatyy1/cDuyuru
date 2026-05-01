@@ -17,6 +17,5 @@ Sunucunuzun /plugins klasörüne atın.
 
 Sunucuyu başlatın ve config.yml üzerinden duyurularınızı dilediğiniz gibi özelleştirin.
 ** **
-** **
 📜 Lisans ve Kullanım Şartları
 Bu yazılım kapalı kaynak kodlu (Proprietary) bir projedir. Kodların tersine mühendislik ile açılması, kopyalanması veya izinsiz olarak yeniden dağıtılması kesinlikle yasaktır. Tüm hakları xCatyy'e aittir.
