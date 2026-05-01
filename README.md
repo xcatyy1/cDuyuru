@@ -11,7 +11,10 @@
 🎮 Gelişmiş Komut Yönetimi: Oyuncu isimlerini gizleyen otomatik tamamlama (Tab Complete) ve şık bir yardım menüsü ile kolay yönetim sağlar.
 ** **
 # 📦 Kurulum
+Desteklenen Sürümler: 1.21x
+Eklenti JDK 21 ve üstünde çalışmaktadır.
 Releases kısmındaki cDuyuru-1.0.0.jar dosyasını indirin.
+
 
 Sunucunuzun /plugins klasörüne atın.
 
