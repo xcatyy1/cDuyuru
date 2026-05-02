@@ -15,7 +15,7 @@ Desteklenen Sürümler: 1.21x
 
 Eklenti JDK 21 ve üstünde çalışmaktadır.
 
-Releases kısmındaki cDuyuru-1.0.0.jar dosyasını indirin.
+Releases kısmındaki cDuyuru.jar dosyasını indirin.
 
 
 Sunucunuzun /plugins klasörüne atın.
