@@ -1,4 +1,4 @@
-# cDuyuru Eklenti Özellikleri
+<img width="1774" height="878" alt="cDuyuru Kapak" src="https://github.com/user-attachments/assets/2610f908-4563-484c-9d03-01be0ed38e0c" /># cDuyuru Eklenti Özellikleri
 
 🖼️ Akıllı Skin Entegrasyonu: Duyurular sohbete düştüğünde, her oyuncu kendi skin kafasını (Minotar API desteğiyle) en önde görür.
 
@@ -24,3 +24,4 @@ Sunucuyu başlatın ve config.yml üzerinden duyurularınızı dilediğiniz gibi
 ** **
 📜 Lisans ve Kullanım Şartları
 Bu yazılım kapalı kaynak kodlu (Proprietary) bir projedir. Kodların tersine mühendislik ile açılması, kopyalanması veya izinsiz olarak yeniden dağıtılması kesinlikle yasaktır. Tüm hakları xCatyy'e aittir.
+<img width="1774" height="878" alt="cDuyuru Kapak" src="https://github.com/user-attachments/assets/0cfab73b-3355-423c-a07f-7a1476c617af" />
